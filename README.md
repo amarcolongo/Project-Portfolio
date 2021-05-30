@@ -1,6 +1,6 @@
 # Anthony's Project Portfolio Website
 ## By Anthony Marcolongo
 
-![Log%20of%20Volume%20Traded%20vs%20Closing%20Price](log volume traded vs closing price.png)
+![Log of Volume Traded vs Closing Price](log%20volume%20traded%20vs%20closing%20price.png)
 
 ![volume traded vs closing price.png](volume traded vs closing price.png)
