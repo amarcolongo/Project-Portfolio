@@ -23,5 +23,5 @@
 #### Description: NLP was used to predict if an Amazon user review would be classified as either positive, or negative. 
 #### Th purpose of this project was to gain familiarity with NLP in Tensorflow 2.0.
 
-#### fig 4:
+#### fig 4: Mean Absolute Error by # of Epochs
 ![Mean Absolute Error](MAE.png)
