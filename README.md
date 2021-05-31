@@ -24,4 +24,4 @@
 #### Th purpose of this project was to gain familiarity with NLP in Tensorflow 2.0.
 
 #### fig 4:
-![Mean Absolute Error](Training%20visulization.png)
+![Mean Absolute Error](MAE.png)
