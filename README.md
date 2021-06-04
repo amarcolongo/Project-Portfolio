@@ -25,3 +25,11 @@
 
 #### fig 4: Mean Absolute Error by # of Epochs
 ![Mean Absolute Error](MAE.png){:height="600px" width="600px"}
+
+
+### [Project 4](https://github.com/amarcolongo/D212-TASK-2-DIMENSIONALITY-REDUCTION-METHODS): Analyzing Medical Readmittance with Principal Component Analysis
+#### Description: Principal Component Analysis was used to determine the likelyhood of a patient being readmitted to the hospital.
+#### The purpose of this project was to show that it is possible to create a model that calculates if a patient will be readmitted or not.
+
+#### fig 5: Proportion of Variance Explained
+![Proportion of Variance Explained](https://github.com/amarcolongo/D212-TASK-2-DIMENSIONALITY-REDUCTION-METHODS/blob/main/Proportion%20of%20variance%20explained.png){:height="600px" width="600px"}
