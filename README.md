@@ -33,3 +33,6 @@
 
 #### fig 5: Proportion of Variance Explained
 ![Proportion of Variance Explained](https://github.com/amarcolongo/D212-TASK-2-DIMENSIONALITY-REDUCTION-METHODS/blob/main/Proportion%20of%20variance%20explained.png){:height="600px" width="600px"}
+
+#### fig 6: Scree Plot
+![Scree Plot](https://github.com/amarcolongo/D212-TASK-2-DIMENSIONALITY-REDUCTION-METHODS/blob/main/Scree%20plot.png){:height="600px" width="600px"}
